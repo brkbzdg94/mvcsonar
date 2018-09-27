@@ -1,0 +1,16 @@
+J
+HC:\Users\burak\Source\Repos\mvcsonar\SonarQube\App_Start\BundleConfig.csJ
+HC:\Users\burak\Source\Repos\mvcsonar\SonarQube\App_Start\FilterConfig.csL
+JC:\Users\burak\Source\Repos\mvcsonar\SonarQube\App_Start\IdentityConfig.csI
+GC:\Users\burak\Source\Repos\mvcsonar\SonarQube\App_Start\RouteConfig.csJ
+HC:\Users\burak\Source\Repos\mvcsonar\SonarQube\App_Start\Startup.Auth.csQ
+OC:\Users\burak\Source\Repos\mvcsonar\SonarQube\Controllers\AccountController.csN
+LC:\Users\burak\Source\Repos\mvcsonar\SonarQube\Controllers\HomeController.csP
+NC:\Users\burak\Source\Repos\mvcsonar\SonarQube\Controllers\ManageController.cs?
+=C:\Users\burak\Source\Repos\mvcsonar\SonarQube\Global.asax.csL
+JC:\Users\burak\Source\Repos\mvcsonar\SonarQube\Models\AccountViewModels.csI
+GC:\Users\burak\Source\Repos\mvcsonar\SonarQube\Models\IdentityModels.csK
+IC:\Users\burak\Source\Repos\mvcsonar\SonarQube\Models\ManageViewModels.csK
+IC:\Users\burak\Source\Repos\mvcsonar\SonarQube\Properties\AssemblyInfo.cs;
+9C:\Users\burak\Source\Repos\mvcsonar\SonarQube\Startup.csX
+TC:\Users\burak\AppData\Local\Temp\.NETFramework,Version=v4.6.1.AssemblyAttributes.cs

@@ -1,0 +1,7 @@
+organization=brkbzdg94-github
+projectKey=brkbzdg94_mvcsonar2
+serverUrl=https://sonarcloud.io
+serverVersion=7.4.0.17063
+dashboardUrl=https://sonarcloud.io/dashboard?id=brkbzdg94_mvcsonar2
+ceTaskId=AWYYCFPr-o61MP5s1AqQ
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWYYCFPr-o61MP5s1AqQ

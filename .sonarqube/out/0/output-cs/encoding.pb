@@ -1,0 +1,15 @@
+Q
+HC:\Users\burak\Source\Repos\mvcsonar\SonarQube\App_Start\BundleConfig.csutf-8Q
+HC:\Users\burak\Source\Repos\mvcsonar\SonarQube\App_Start\FilterConfig.csutf-8S
+JC:\Users\burak\Source\Repos\mvcsonar\SonarQube\App_Start\IdentityConfig.csutf-8P
+GC:\Users\burak\Source\Repos\mvcsonar\SonarQube\App_Start\RouteConfig.csutf-8Q
+HC:\Users\burak\Source\Repos\mvcsonar\SonarQube\App_Start\Startup.Auth.csutf-8X
+OC:\Users\burak\Source\Repos\mvcsonar\SonarQube\Controllers\AccountController.csutf-8U
+LC:\Users\burak\Source\Repos\mvcsonar\SonarQube\Controllers\HomeController.csutf-8W
+NC:\Users\burak\Source\Repos\mvcsonar\SonarQube\Controllers\ManageController.csutf-8F
+=C:\Users\burak\Source\Repos\mvcsonar\SonarQube\Global.asax.csutf-8S
+JC:\Users\burak\Source\Repos\mvcsonar\SonarQube\Models\AccountViewModels.csutf-8P
+GC:\Users\burak\Source\Repos\mvcsonar\SonarQube\Models\IdentityModels.csutf-8R
+IC:\Users\burak\Source\Repos\mvcsonar\SonarQube\Models\ManageViewModels.csutf-8R
+IC:\Users\burak\Source\Repos\mvcsonar\SonarQube\Properties\AssemblyInfo.csutf-8B
+9C:\Users\burak\Source\Repos\mvcsonar\SonarQube\Startup.csutf-8

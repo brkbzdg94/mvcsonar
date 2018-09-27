@@ -29,6 +29,7 @@ namespace SonarQube.Controllers
 
         public void sonar()
         {
+            int a;
             int target = -5;
             int num = 3;
 

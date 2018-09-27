@@ -1,1 +1,1 @@
-C:\Users\burak\Source\Repos\sonarqube\SonarQube\.sonarqube\out\0
+C:\Users\burak\Source\Repos\mvcsonar\.sonarqube\out\0
