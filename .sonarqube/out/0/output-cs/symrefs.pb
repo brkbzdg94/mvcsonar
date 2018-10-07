@@ -342,7 +342,7 @@ OC:\Users\burak\Source\Repos\mvcsonar\SonarQube\Controllers\AccountController.cs
 
 ÛÛ 
 ÞÞ 
-ààN XÊ
+ààN XÖ
 LC:\Users\burak\Source\Repos\mvcsonar\SonarQube\Controllers\HomeController.cs
 
 		 
@@ -353,9 +353,11 @@ LC:\Users\burak\Source\Repos\mvcsonar\SonarQube\Controllers\HomeController.cs
 
  #
 
- 
-   ## $$ 
-!! ## $$ ø
+ 
+
+   
+!! $$ %% 
+"" $$ %% ø
 NC:\Users\burak\Source\Repos\mvcsonar\SonarQube\Controllers\ManageController.cs
 
  !

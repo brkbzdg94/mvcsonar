@@ -12,6 +12,27 @@
       },
       "results": [
         {
+          "ruleId": "CS0168",
+          "level": "warning",
+          "message": "a' değişkeni ifade edilir ancak hiçbir zaman kullanılmaz",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/burak/Source/Repos/mvcsonar/SonarQube/Controllers/HomeController.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 17,
+                  "endLine": 32,
+                  "endColumn": 18
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
           "ruleId": "S125",
           "level": "warning",
           "message": "Remove this commented out code.",
@@ -327,27 +348,6 @@
           }
         },
         {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove this unused 'code' local variable.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/burak/Source/Repos/mvcsonar/SonarQube/Controllers/ManageController.cs",
-                "region": {
-                  "startLine": 167,
-                  "startColumn": 17,
-                  "endLine": 167,
-                  "endColumn": 21
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
           "ruleId": "S3358",
           "level": "warning",
           "message": "Extract this nested ternary operation into an independent statement.",
@@ -550,81 +550,18 @@
           }
         },
         {
-          "ruleId": "S3358",
+          "ruleId": "S1481",
           "level": "warning",
-          "message": "Extract this nested ternary operation into an independent statement.",
+          "message": "Remove this unused 'code' local variable.",
           "locations": [
             {
               "resultFile": {
                 "uri": "file:///C:/Users/burak/Source/Repos/mvcsonar/SonarQube/Controllers/ManageController.cs",
                 "region": {
-                  "startLine": 285,
-                  "startColumn": 19,
-                  "endLine": 286,
+                  "startLine": 167,
+                  "startColumn": 17,
+                  "endLine": 167,
                   "endColumn": 21
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1854",
-          "level": "warning",
-          "message": "Remove this useless assignment to local variable 'target'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/burak/Source/Repos/mvcsonar/SonarQube/Controllers/HomeController.cs",
-                "region": {
-                  "startLine": 36,
-                  "startColumn": 20,
-                  "endLine": 36,
-                  "endColumn": 26
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1854",
-          "level": "warning",
-          "message": "Remove this useless assignment to local variable 'target'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/burak/Source/Repos/mvcsonar/SonarQube/Controllers/HomeController.cs",
-                "region": {
-                  "startLine": 35,
-                  "startColumn": 20,
-                  "endLine": 35,
-                  "endColumn": 26
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1854",
-          "level": "warning",
-          "message": "Remove this useless assignment to local variable 'target'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/burak/Source/Repos/mvcsonar/SonarQube/Controllers/HomeController.cs",
-                "region": {
-                  "startLine": 32,
-                  "startColumn": 24,
-                  "endLine": 32,
-                  "endColumn": 28
                 }
               }
             }
@@ -676,6 +613,27 @@
           }
         },
         {
+          "ruleId": "S3358",
+          "level": "warning",
+          "message": "Extract this nested ternary operation into an independent statement.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/burak/Source/Repos/mvcsonar/SonarQube/Controllers/ManageController.cs",
+                "region": {
+                  "startLine": 285,
+                  "startColumn": 19,
+                  "endLine": 286,
+                  "endColumn": 21
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
           "ruleId": "S3458",
           "level": "warning",
           "message": "Remove this empty 'case' clause.",
@@ -695,9 +653,106 @@
           "properties": {
             "warningLevel": 1
           }
+        },
+        {
+          "ruleId": "S1854",
+          "level": "warning",
+          "message": "Remove this useless assignment to local variable 'target'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/burak/Source/Repos/mvcsonar/SonarQube/Controllers/HomeController.cs",
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 20,
+                  "endLine": 37,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1854",
+          "level": "warning",
+          "message": "Remove this useless assignment to local variable 'target'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/burak/Source/Repos/mvcsonar/SonarQube/Controllers/HomeController.cs",
+                "region": {
+                  "startLine": 36,
+                  "startColumn": 20,
+                  "endLine": 36,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1854",
+          "level": "warning",
+          "message": "Remove this useless assignment to local variable 'target'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/burak/Source/Repos/mvcsonar/SonarQube/Controllers/HomeController.cs",
+                "region": {
+                  "startLine": 33,
+                  "startColumn": 24,
+                  "endLine": 33,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove this unused 'a' local variable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/burak/Source/Repos/mvcsonar/SonarQube/Controllers/HomeController.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 17,
+                  "endLine": 32,
+                  "endColumn": 18
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
         }
       ],
       "rules": {
+        "CS0168": {
+          "id": "CS0168",
+          "shortDescription": "Değişken bildirildi ancak hiç kullanılmadı",
+          "defaultLevel": "warning",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
         "S1075": {
           "id": "S1075",
           "shortDescription": "URIs should not be hardcoded",
