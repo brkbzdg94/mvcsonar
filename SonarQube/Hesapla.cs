@@ -17,7 +17,9 @@ namespace SonarQube
             int target = -5;
             int num = 3;
             target = -num;  // Noncompliant; target = -3. Is that really what's meant?
-            target = +num; // Noncompliant; target = 3
+            target = +num; // Noncompliant; target = 
+            Console.Write("Burak");
+            Console.Write("Burak");
         }
 
         public void sonar2()
@@ -26,6 +28,11 @@ namespace SonarQube
             int num = 3;
             target = -num;  // Noncompliant; target = -3. Is that really what's meant?
             target = +num; // Noncompliant; target = 3
+            Console.Write("Burak");
+            Console.Write("Burak");
+            Console.Write("Burak");
+            Console.Write("Burak");
+
         }
     }
 }
