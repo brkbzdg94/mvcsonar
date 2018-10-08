@@ -37,3 +37,4 @@ C:\Users\burak\Source\Repos\mvcsonar\SonarQube.Hesapla.Tests\bin\Debug\System.We
 C:\Users\burak\Source\Repos\mvcsonar\SonarQube.Hesapla.Tests\obj\Debug\SonarQube.Hesapla.Tests.csprojResolveAssemblyReference.cache
 C:\Users\burak\Source\Repos\mvcsonar\SonarQube.Hesapla.Tests\obj\Debug\SonarQube.Hesapla.Tests.dll
 C:\Users\burak\Source\Repos\mvcsonar\SonarQube.Hesapla.Tests\obj\Debug\SonarQube.Hesapla.Tests.pdb
+C:\Users\burak\Source\Repos\mvcsonar\SonarQube.Hesapla.Tests\bin\Debug\SonarQube.Hesapla.Tests.dll.config
