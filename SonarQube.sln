@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SonarQube", "SonarQube\Sona
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SonarQube.Hesapla.Tests", "SonarQube.Hesapla.Tests\SonarQube.Hesapla.Tests.csproj", "{A238E9CC-AB71-4F19-9D94-7144007524DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SonarQube.Tests", "SonarQube.Tests\SonarQube.Tests.csproj", "{C71B8C3C-178B-4CA9-9DEA-5D41E840F4EA}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{A238E9CC-AB71-4F19-9D94-7144007524DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A238E9CC-AB71-4F19-9D94-7144007524DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A238E9CC-AB71-4F19-9D94-7144007524DC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C71B8C3C-178B-4CA9-9DEA-5D41E840F4EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C71B8C3C-178B-4CA9-9DEA-5D41E840F4EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C71B8C3C-178B-4CA9-9DEA-5D41E840F4EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C71B8C3C-178B-4CA9-9DEA-5D41E840F4EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

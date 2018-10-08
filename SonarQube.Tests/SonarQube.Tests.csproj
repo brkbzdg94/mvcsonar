@@ -51,9 +51,6 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="Controllers\AccountControllerTests.cs" />
-    <Compile Include="Controllers\HomeControllerTests.cs" />
-    <Compile Include="Controllers\ManageControllerTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -61,6 +58,9 @@
       <Project>{B16CDB5E-4D80-4A79-8408-69477915BAFB}</Project>
       <Name>SonarQube</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Controllers\" />
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">

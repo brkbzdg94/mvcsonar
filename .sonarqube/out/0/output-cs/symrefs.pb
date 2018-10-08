@@ -342,7 +342,7 @@ OC:\Users\burak\Source\Repos\mvcsonar\SonarQube\Controllers\AccountController.cs
 
 ÛÛ 
 ÞÞ 
-ààN XÖ
+ààN XÊ
 LC:\Users\burak\Source\Repos\mvcsonar\SonarQube\Controllers\HomeController.cs
 
 		 
@@ -353,11 +353,9 @@ LC:\Users\burak\Source\Repos\mvcsonar\SonarQube\Controllers\HomeController.cs
 
  #
 
- 
-
-   
-!! $$ %% 
-"" $$ %% ø
+ 
+   "" ## 
+!! "" ## ø
 NC:\Users\burak\Source\Repos\mvcsonar\SonarQube\Controllers\ManageController.cs
 
  !
@@ -610,7 +608,28 @@ NC:\Users\burak\Source\Repos\mvcsonar\SonarQube\Controllers\ManageController.cs
 
  
 
- (Ì
+ (—
+9C:\Users\burak\Source\Repos\mvcsonar\SonarQube\Hesapla.cs
+
+ 
+
+
+
+ 
+
+
+ " 
+
+
+( -  
+
+ 
+   
+   
+
+ 
+   
+   Ì
 JC:\Users\burak\Source\Repos\mvcsonar\SonarQube\Models\AccountViewModels.cs
 
  3

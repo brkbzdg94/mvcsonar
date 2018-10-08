@@ -7,7 +7,8 @@ HC:\Users\burak\Source\Repos\mvcsonar\SonarQube\App_Start\Startup.Auth.csQ
 OC:\Users\burak\Source\Repos\mvcsonar\SonarQube\Controllers\AccountController.csN
 LC:\Users\burak\Source\Repos\mvcsonar\SonarQube\Controllers\HomeController.csP
 NC:\Users\burak\Source\Repos\mvcsonar\SonarQube\Controllers\ManageController.cs?
-=C:\Users\burak\Source\Repos\mvcsonar\SonarQube\Global.asax.csL
+=C:\Users\burak\Source\Repos\mvcsonar\SonarQube\Global.asax.cs;
+9C:\Users\burak\Source\Repos\mvcsonar\SonarQube\Hesapla.csL
 JC:\Users\burak\Source\Repos\mvcsonar\SonarQube\Models\AccountViewModels.csI
 GC:\Users\burak\Source\Repos\mvcsonar\SonarQube\Models\IdentityModels.csK
 IC:\Users\burak\Source\Repos\mvcsonar\SonarQube\Models\ManageViewModels.csK

@@ -34,6 +34,6 @@ C:\Users\burak\Source\Repos\mvcsonar\SonarQube.Tests\bin\Debug\System.Web.Razor.
 C:\Users\burak\Source\Repos\mvcsonar\SonarQube.Tests\bin\Debug\System.Web.WebPages.Razor.xml
 C:\Users\burak\Source\Repos\mvcsonar\SonarQube.Tests\bin\Debug\System.Web.WebPages.xml
 C:\Users\burak\Source\Repos\mvcsonar\SonarQube.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
-C:\Users\burak\Source\Repos\mvcsonar\SonarQube.Tests\obj\Debug\SonarQube.Tests.csprojResolveAssemblyReference.cache
 C:\Users\burak\Source\Repos\mvcsonar\SonarQube.Tests\obj\Debug\SonarQube.Tests.dll
 C:\Users\burak\Source\Repos\mvcsonar\SonarQube.Tests\obj\Debug\SonarQube.Tests.pdb
+C:\Users\burak\Source\Repos\mvcsonar\SonarQube.Tests\obj\Debug\SonarQube.Tests.csprojResolveAssemblyReference.cache
