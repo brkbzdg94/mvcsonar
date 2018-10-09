@@ -37,30 +37,30 @@ namespace SonarQube.Tests
             Assert.AreEqual(10, sonuc);
         }
 
-        [TestMethod()]
-        public void CarpTest()
-        {
-            //Arrange
-            Hesapla hesap = new Hesapla();
+        //[TestMethod()]
+        //public void CarpTest()
+        //{
+        //    //Arrange
+        //    Hesapla hesap = new Hesapla();
 
-            //Act
-            int sonuc = hesap.Carp(20, 10);
+        //    //Act
+        //    int sonuc = hesap.Carp(20, 10);
 
-            //Assert
-            Assert.AreEqual(200, sonuc);
-        }
+        //    //Assert
+        //    Assert.AreEqual(200, sonuc);
+        //}
 
-        [TestMethod()]
-        public void BolTest()
-        {
-            //Arrange
-            Hesapla hesap = new Hesapla();
+        //[TestMethod()]
+        //public void BolTest()
+        //{
+        //    //Arrange
+        //    Hesapla hesap = new Hesapla();
 
-            //Act
-            int sonuc = hesap.Bol(20, 10);
+        //    //Act
+        //    int sonuc = hesap.Bol(20, 10);
 
-            //Assert
-            Assert.AreEqual(2, sonuc);
-        }
+        //    //Assert
+        //    Assert.AreEqual(2, sonuc);
+        //}
     }
 }

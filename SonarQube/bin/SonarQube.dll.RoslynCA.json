@@ -81,27 +81,6 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/burak/Source/Repos/mvcsonar/SonarQube/App_Start/FilterConfig.cs",
-                "region": {
-                  "startLine": 6,
-                  "startColumn": 18,
-                  "endLine": 6,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1118",
-          "level": "warning",
-          "message": "Add a 'protected' constructor or the 'static' keyword to the class declaration.",
-          "locations": [
-            {
-              "resultFile": {
                 "uri": "file:///C:/Users/burak/Source/Repos/mvcsonar/SonarQube/App_Start/RouteConfig.cs",
                 "region": {
                   "startLine": 10,
@@ -124,6 +103,27 @@
             {
               "resultFile": {
                 "uri": "file:///C:/Users/burak/Source/Repos/mvcsonar/SonarQube/App_Start/BundleConfig.cs",
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 18,
+                  "endLine": 6,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1118",
+          "level": "warning",
+          "message": "Add a 'protected' constructor or the 'static' keyword to the class declaration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/burak/Source/Repos/mvcsonar/SonarQube/App_Start/FilterConfig.cs",
                 "region": {
                   "startLine": 6,
                   "startColumn": 18,
@@ -327,18 +327,18 @@
           }
         },
         {
-          "ruleId": "S1854",
+          "ruleId": "S3458",
           "level": "warning",
-          "message": "Remove this useless assignment to local variable 'target'.",
+          "message": "Remove this empty 'case' clause.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/burak/Source/Repos/mvcsonar/SonarQube/Hesapla.cs",
+                "uri": "file:///C:/Users/burak/Source/Repos/mvcsonar/SonarQube/Controllers/AccountController.cs",
                 "region": {
-                  "startLine": 30,
-                  "startColumn": 20,
-                  "endLine": 30,
-                  "endColumn": 26
+                  "startLine": 130,
+                  "startColumn": 17,
+                  "endLine": 130,
+                  "endColumn": 43
                 }
               }
             }
@@ -348,102 +348,18 @@
           }
         },
         {
-          "ruleId": "S1854",
+          "ruleId": "S3458",
           "level": "warning",
-          "message": "Remove this useless assignment to local variable 'target'.",
+          "message": "Remove this empty 'case' clause.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/burak/Source/Repos/mvcsonar/SonarQube/Hesapla.cs",
+                "uri": "file:///C:/Users/burak/Source/Repos/mvcsonar/SonarQube/Controllers/AccountController.cs",
                 "region": {
-                  "startLine": 29,
-                  "startColumn": 20,
-                  "endLine": 29,
-                  "endColumn": 26
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1854",
-          "level": "warning",
-          "message": "Remove this useless assignment to local variable 'target'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/burak/Source/Repos/mvcsonar/SonarQube/Hesapla.cs",
-                "region": {
-                  "startLine": 27,
-                  "startColumn": 24,
-                  "endLine": 27,
-                  "endColumn": 28
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1854",
-          "level": "warning",
-          "message": "Remove this useless assignment to local variable 'target'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/burak/Source/Repos/mvcsonar/SonarQube/Hesapla.cs",
-                "region": {
-                  "startLine": 20,
-                  "startColumn": 20,
-                  "endLine": 20,
-                  "endColumn": 26
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1854",
-          "level": "warning",
-          "message": "Remove this useless assignment to local variable 'target'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/burak/Source/Repos/mvcsonar/SonarQube/Hesapla.cs",
-                "region": {
-                  "startLine": 19,
-                  "startColumn": 20,
-                  "endLine": 19,
-                  "endColumn": 26
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1854",
-          "level": "warning",
-          "message": "Remove this useless assignment to local variable 'target'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/burak/Source/Repos/mvcsonar/SonarQube/Hesapla.cs",
-                "region": {
-                  "startLine": 17,
-                  "startColumn": 24,
-                  "endLine": 17,
-                  "endColumn": 28
+                  "startLine": 87,
+                  "startColumn": 17,
+                  "endLine": 87,
+                  "endColumn": 43
                 }
               }
             }
@@ -548,27 +464,6 @@
                   "startLine": 63,
                   "startColumn": 19,
                   "endLine": 64,
-                  "endColumn": 21
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove this unused 'code' local variable.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/burak/Source/Repos/mvcsonar/SonarQube/Controllers/ManageController.cs",
-                "region": {
-                  "startLine": 167,
-                  "startColumn": 17,
-                  "endLine": 167,
                   "endColumn": 21
                 }
               }
@@ -676,6 +571,48 @@
           }
         },
         {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove this unused 'code' local variable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/burak/Source/Repos/mvcsonar/SonarQube/Controllers/ManageController.cs",
+                "region": {
+                  "startLine": 167,
+                  "startColumn": 17,
+                  "endLine": 167,
+                  "endColumn": 21
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3458",
+          "level": "warning",
+          "message": "Remove this empty 'case' clause.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/burak/Source/Repos/mvcsonar/SonarQube/Controllers/AccountController.cs",
+                "region": {
+                  "startLine": 341,
+                  "startColumn": 17,
+                  "endLine": 341,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
           "ruleId": "S3358",
           "level": "warning",
           "message": "Extract this nested ternary operation into an independent statement.",
@@ -688,6 +625,132 @@
                   "startColumn": 19,
                   "endLine": 286,
                   "endColumn": 21
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1854",
+          "level": "warning",
+          "message": "Remove this useless assignment to local variable 'target'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/burak/Source/Repos/mvcsonar/SonarQube/Hesapla.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 20,
+                  "endLine": 32,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1854",
+          "level": "warning",
+          "message": "Remove this useless assignment to local variable 'target'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/burak/Source/Repos/mvcsonar/SonarQube/Hesapla.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 20,
+                  "endLine": 31,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1854",
+          "level": "warning",
+          "message": "Remove this useless assignment to local variable 'target'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/burak/Source/Repos/mvcsonar/SonarQube/Hesapla.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 24,
+                  "endLine": 29,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1854",
+          "level": "warning",
+          "message": "Remove this useless assignment to local variable 'target'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/burak/Source/Repos/mvcsonar/SonarQube/Hesapla.cs",
+                "region": {
+                  "startLine": 42,
+                  "startColumn": 20,
+                  "endLine": 42,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1854",
+          "level": "warning",
+          "message": "Remove this useless assignment to local variable 'target'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/burak/Source/Repos/mvcsonar/SonarQube/Hesapla.cs",
+                "region": {
+                  "startLine": 41,
+                  "startColumn": 20,
+                  "endLine": 41,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1854",
+          "level": "warning",
+          "message": "Remove this useless assignment to local variable 'target'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/burak/Source/Repos/mvcsonar/SonarQube/Hesapla.cs",
+                "region": {
+                  "startLine": 39,
+                  "startColumn": 24,
+                  "endLine": 39,
+                  "endColumn": 28
                 }
               }
             }
@@ -751,69 +814,6 @@
                   "startColumn": 24,
                   "endLine": 32,
                   "endColumn": 28
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3458",
-          "level": "warning",
-          "message": "Remove this empty 'case' clause.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/burak/Source/Repos/mvcsonar/SonarQube/Controllers/AccountController.cs",
-                "region": {
-                  "startLine": 130,
-                  "startColumn": 17,
-                  "endLine": 130,
-                  "endColumn": 43
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3458",
-          "level": "warning",
-          "message": "Remove this empty 'case' clause.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/burak/Source/Repos/mvcsonar/SonarQube/Controllers/AccountController.cs",
-                "region": {
-                  "startLine": 87,
-                  "startColumn": 17,
-                  "endLine": 87,
-                  "endColumn": 43
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3458",
-          "level": "warning",
-          "message": "Remove this empty 'case' clause.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/burak/Source/Repos/mvcsonar/SonarQube/Controllers/AccountController.cs",
-                "region": {
-                  "startLine": 341,
-                  "startColumn": 17,
-                  "endLine": 341,
-                  "endColumn": 43
                 }
               }
             }

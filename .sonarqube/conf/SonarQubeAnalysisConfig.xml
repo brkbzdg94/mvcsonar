@@ -8,7 +8,7 @@
   <SonarQubeHostUrl>http://localhost:9000</SonarQubeHostUrl>
   <SonarQubeVersion>7.3.0.15553</SonarQubeVersion>
   <SonarProjectKey>sonarqube_project_key</SonarProjectKey>
-  <SonarProjectVersion>1.0</SonarProjectVersion>
+  <SonarProjectVersion>sonarqube_project_version</SonarProjectVersion>
   <SonarProjectName>sonarqube_project_name</SonarProjectName>
   <AdditionalConfig>
     <ConfigSetting Id="BuildUri" />
@@ -40,7 +40,7 @@
     <Property Name="sonar.dbcleaner.cleanDirectory">true</Property>
     <Property Name="sonar.onboardingTutorial.showToNewUsers">false</Property>
     <Property Name="sonar.jacoco.reportPaths">target/jacoco.exec, target/jacoco-it.exec</Property>
-    <Property Name="sonar.cpd.cross_project">false</Property>
+    <Property Name="sonar.cpd.cross_project">true</Property>
     <Property Name="email.from">noreply@nowhere</Property>
     <Property Name="sonar.typescript.node">node</Property>
     <Property Name="sonar.dbcleaner.weeksBeforeKeepingOnlyOneSnapshotByWeek">4</Property>
@@ -81,7 +81,7 @@
     <Property Name="sonar.core.startTime">8.10.2018 08:43:30</Property>
   </ServerSettings>
   <LocalSettings>
-    <Property Name="sonar.cs.vscoveragexml.reportsPaths">C:\Users\burak\Source\Repos\mvcsonar\VisualStudio.coveragexml</Property>
+    <Property Name="sonar.cs.opencover.reportsPaths">C:\Users\burak\Source\Repos\mvcsonar\coverage.xml</Property>
   </LocalSettings>
   <AnalyzersSettings>
     <AnalyzerSettings>

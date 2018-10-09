@@ -608,7 +608,7 @@ NC:\Users\burak\Source\Repos\mvcsonar\SonarQube\Controllers\ManageController.cs
 
  
 
- (—
+ (¿
 9C:\Users\burak\Source\Repos\mvcsonar\SonarQube\Hesapla.cs
 
  
@@ -623,13 +623,25 @@ NC:\Users\burak\Source\Repos\mvcsonar\SonarQube\Controllers\ManageController.cs
 
 ( -  
 
- 
-   
-   
+ 
+ " 
+( -  
 
- 
-   
-   Ì
+ 
+ ! 
+' ,  
+
+ 
+   
+& +  
+
+ 
+     
+     
+
+%% 
+'' )) ** 
+(( )) ** Ì
 JC:\Users\burak\Source\Repos\mvcsonar\SonarQube\Models\AccountViewModels.cs
 
  3
